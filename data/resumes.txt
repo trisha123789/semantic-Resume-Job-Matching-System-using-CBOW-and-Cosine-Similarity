@@ -1,0 +1,20 @@
+Data Scientist with strong experience in Python, Machine Learning, and Statistical Modeling.
+Built predictive models using Logistic Regression, Random Forest, and XGBoost to improve accuracy by 18 percent.
+Worked extensively on data preprocessing, feature engineering, and exploratory data analysis.
+Developed deep learning models using TensorFlow and Keras for image classification projects.
+Implemented NLP pipelines using TF-IDF, Word2Vec, and CBOW for text similarity tasks.
+Hands-on experience with SQL, Pandas, NumPy, and Matplotlib for data analysis.
+Designed and deployed machine learning models using Streamlit and Flask.
+Experienced in model evaluation techniques such as precision, recall, F1-score, and ROC-AUC.
+Worked on resume-job matching systems using cosine similarity and word embeddings.
+Strong understanding of probability, statistics, and linear algebra for machine learning.
+Completed projects in sentiment analysis, fake news detection, and harm-no-harm classification.
+Experience working with real-world datasets from Kaggle and enterprise sources.
+Implemented CNN-based models for face recognition and medical image analysis.
+Optimized ML models for CPU inference and real-time prediction.
+Familiar with Git, GitHub, and collaborative software development workflows.
+Worked with cloud basics including AWS EC2 and S3 for deployment.
+Strong problem-solving skills with Data Structures and Algorithms.
+Experience in transforming unstructured text into numerical vectors.
+Built end-to-end ML pipelines from data collection to deployment.
+Passionate about applying AI solutions to real-world problems.

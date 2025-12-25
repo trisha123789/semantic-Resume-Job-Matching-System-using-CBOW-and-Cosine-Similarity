@@ -1,0 +1,20 @@
+We are hiring a Data Scientist with strong knowledge of machine learning and data analysis.
+The candidate should be proficient in Python, SQL, and data visualization tools.
+Experience with supervised and unsupervised learning algorithms is required.
+Hands-on experience with NLP techniques such as TF-IDF, Word2Vec, and embeddings is a plus.
+The role involves building predictive models and improving business decision-making.
+Experience in deep learning frameworks like TensorFlow or PyTorch is preferred.
+Strong understanding of statistics, probability, and linear algebra is required.
+Candidate should be able to preprocess large datasets and engineer features.
+Experience deploying machine learning models into production environments.
+Knowledge of model evaluation metrics and performance tuning is essential.
+Ability to work with unstructured text data and perform similarity analysis.
+Experience with Streamlit or Flask for building ML applications is an advantage.
+The role requires collaboration with cross-functional teams.
+Familiarity with version control systems such as Git is required.
+Understanding of real-time inference and model optimization is beneficial.
+Experience in computer vision or NLP projects is a strong plus.
+Strong communication skills and ability to explain technical concepts.
+The candidate should be passionate about continuous learning in AI and ML.
+Experience working with real-world datasets and solving business problems.
+This role offers opportunities to work on cutting-edge AI solutions.
